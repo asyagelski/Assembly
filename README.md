@@ -27,11 +27,11 @@ This calculates the Nth Fibonacci term, albeit in a messy-ish way.
 
 0th term:
 
-![alt text](https://github.com/asyagelski/Assembly/blob/master/2_Fibonacci/n0.png)
+![alt text](https://github.com/asyagelski/Assembly/blob/master/2_Fibonacci/n0.PNG)
 
 4th term:
 
-![alt text](https://github.com/asyagelski/Assembly/blob/master/2_Fibonacci/n4.png)
+![alt text](https://github.com/asyagelski/Assembly/blob/master/2_Fibonacci/n4.PNG)
 
 ---
 
