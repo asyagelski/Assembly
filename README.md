@@ -8,6 +8,12 @@ Tested on a [DE0-Nano Microcontroller](https://www.terasic.com.tw/cgi-bin/page/a
 
 This program calculated X to the power of N, surprisingly. Code is all commented, any questions can be sent to me!
 
-Example Output:
+**Example Output:**
+
 1 to the power of 10:
-[alt text](https://github.com/asyagelski/Assembly/blob/master/1_XpowN/1to10.png)
+
+![alt text](https://github.com/asyagelski/Assembly/blob/master/1_XpowN/1to10.png)
+
+2 to the power of 6:
+
+![alt text](https://github.com/asyagelski/Assembly/blob/master/1_XpowN/2to6.png)
