@@ -19,8 +19,6 @@ This program calculates X to the power of N, surprisingly.
 
 ![alt text](https://github.com/asyagelski/Assembly/blob/master/1_XpowN/2to6.png)
 
----
-
 ## [Fibonacci](https://github.com/asyagelski/Assembly/tree/master/2_Fibonacci)
 
 This calculates the Nth Fibonacci term, albeit in a messy-ish way.
@@ -34,6 +32,8 @@ This calculates the Nth Fibonacci term, albeit in a messy-ish way.
 4th term:
 
 ![alt text](https://github.com/asyagelski/Assembly/blob/master/2_Fibonacci/n4.png)
+
+---
 
 **Contact:**
 
