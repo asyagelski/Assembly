@@ -5,7 +5,7 @@ Tested on a [DE0-Nano Microcontroller](https://www.terasic.com.tw/cgi-bin/page/a
 
 ## [X to the Power of N](https://github.com/asyagelski/Assembly/tree/master/1_XpowN)
 
-This program calculated X to the power of N, surprisingly. Code is all commented, any questions can be sent to me!
+This program calculates X to the power of N, surprisingly. Code is all commented, any questions can be sent to me!
 
 **Example Output:**
 
@@ -16,3 +16,7 @@ This program calculated X to the power of N, surprisingly. Code is all commented
 2 to the power of 6:
 
 ![alt text](https://github.com/asyagelski/Assembly/blob/master/1_XpowN/2to6.png)
+
+**Contact:**
+
+e-mail: anthony@yagel.ski
