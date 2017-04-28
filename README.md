@@ -17,6 +17,8 @@ This program calculates X to the power of N, surprisingly. Code is all commented
 
 ![alt text](https://github.com/asyagelski/Assembly/blob/master/1_XpowN/2to6.png)
 
+---
+
 **Contact:**
 
 e-mail: anthony@yagel.ski
