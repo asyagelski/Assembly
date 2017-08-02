@@ -32,9 +32,3 @@ This calculates the Nth Fibonacci term, albeit in a messy-ish way.
 4th term:
 
 ![alt text](https://github.com/asyagelski/Assembly/blob/master/2_Fibonacci/n4.PNG)
-
----
-
-**Contact:**
-
-e-mail: anthony@yagel.ski
